@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Ui/Ux Design",
+    "text": "Inflexiont, is one of the leading IT Solution & Consultation Company that aims to deliver the best technology Solutions. We are the team that provides web design, web development, and app development.",
+    "icon": "/icons/quill-pen-line.svg"
+  },
+  {
+    "id": 2,
+    "title": "Web Development",
+    "text": "Inflexiont, is one of the leading IT Solution & Consultation Company that aims to deliver the best technology Solutions. We are the team that provides web design, web development, and app development.",
+    "icon": "/icons/code-s-slash-line.svg"
+  },
+  {
+    "id": 3,
+    "title": "Mobile App Development",
+    "text": "Inflexiont, is one of the leading IT Solution & Consultation Company that aims to deliver the best technology Solutions. We are the team that provides web design, web development, and app development.",
+    "icon": "/icons/smartphone-line.svg"
+  }
+]
