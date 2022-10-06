@@ -35,7 +35,7 @@ const Posts = ({ posts, hasMore, categories, recentPosts }) => {
   return (
     <Layout>
       <Head>
-        <title>Blogs - inflexiont - </title>
+        <title>Blogs - straigo - </title>
       </Head>
       <Breadcrumb
         title="Blogs"

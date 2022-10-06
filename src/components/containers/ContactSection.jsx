@@ -32,7 +32,7 @@ const ContactSection = () => {
         <div className="contact-information">
           <h4>Contact Information</h4>
           <p>
-            Inflexiont, is one of the leading IT Solution & Consultation Company
+            straigo, is one of the leading IT Solution & Consultation Company
             that aims to deliver the best technology Solutions.
           </p>
           <span className="inline-block h-1 w-20 rounded-full bg-primary bg-opacity-20"></span>

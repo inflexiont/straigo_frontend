@@ -9,7 +9,7 @@ const NotFound = () => {
   return (
     <Layout>
       <Head>
-        <title>Not Found - Inflexiont-Full of Tech Senses</title>
+        <title>Not Found - straigo-Full of Tech Senses</title>
       </Head>
 
       {/* Start NotFound Section */}

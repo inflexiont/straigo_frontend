@@ -15,7 +15,7 @@ const Blog = ({ post: { title, date, thumb, category, slug } }) => {
               src={thumb}
               height={240}
               width={400}
-              alt="Inflexiont"
+              alt="straigo"
               layout="responsive"
               objectFit="cover"
               placeholder="blur"

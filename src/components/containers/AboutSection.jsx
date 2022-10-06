@@ -73,7 +73,7 @@ const AboutSection = () => {
           </span>
 
           <p>
-            Inflexiont, is one of the leading IT Solution & Consultation Company
+            straigo, is one of the leading IT Solution & Consultation Company
             that aims to deliver the best technology Solutions. We are the team
             that provides web design, web development, and app development. Save
             your time and efforts and hire the best team at the right time with

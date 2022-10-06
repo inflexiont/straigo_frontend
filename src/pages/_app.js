@@ -40,20 +40,20 @@ function MyApp({ Component, pageProps }) {
           />
           <meta
             name="description"
-            content="Inflexiont, is one of the leading IT Solution & Consultation Company that aims to deliver the best technology Solutions. We are the team that provides web design, web development, and app development. Save your time and efforts and hire the best team at the right time with a cost-effective, easy-to-use, and unified platform."
+            content="straigo, is one of the leading IT Solution & Consultation Company that aims to deliver the best technology Solutions. We are the team that provides web design, web development, and app development. Save your time and efforts and hire the best team at the right time with a cost-effective, easy-to-use, and unified platform."
           />
           <meta name="robots" content="noindex, nofollow" />
           <meta
             name="keywords"
-            content="Web design, web development, app development, Jeddah digital agency, software development, saudi arabia website agency, marketing agency, UI design, Good website company,Inflexiont,Inflexiont-website, Inflexiont-service, Inflexiont-location, Inflexiont-Jeddah,Inflexiont_web_service jeddah web_development, saudi web_development"
+            content="Web design, web development, app development, Jeddah digital agency, software development, saudi arabia website agency, marketing agency, UI design, Good website company,straigo,straigo-website, straigo-service, straigo-location, straigo-Jeddah,straigo_web_service jeddah web_development, saudi web_development"
           />
-          <meta name="author" content="Inflexiont" />
+          <meta name="author" content="straigo" />
           <meta name="theme-color" content="#72E2AE" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <link rel="manifest" href="/manifest.json" />
           <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
           <link rel="apple-touch-icon" href="/icon-192x192.png" />
-          <title>Inflexiont-Full of Tech Senses </title>
+          <title>straigo-Full of Tech Senses </title>
         </Head>
         <ParallaxProvider>
           <Hydrate state={pageProps.dehydratedState}>

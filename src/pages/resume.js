@@ -7,7 +7,7 @@ const resume = () => {
   return (
     <Layout2>
       <Head>
-        <title>Resume - inflexiont - </title>
+        <title>Resume - straigo - </title>
       </Head>
 
       {/* Start Skills Section */}

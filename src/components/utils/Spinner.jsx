@@ -7,7 +7,7 @@ const Spinner = () => {
         <img
           className="h-10 max-h-full w-auto animate-ping animate-bounce animate-spin md:h-28 "
           src="/images/lodarLogo.png"
-          alt="inflexiont"
+          alt="straigo"
         />
       </span>
       {/* <span className="absolute z-10 h-full w-full animate-spin rounded-full border-l-2 border-t-2 border-white border-opacity-50 bg-grey-lighten"></span> */}

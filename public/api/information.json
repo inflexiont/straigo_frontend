@@ -1,6 +1,6 @@
 {
-  "lastName": "inflexiont",
-  "fullName": "Inflexiont",
+  "lastName": "straigo",
+  "fullName": "straigo",
   "thumbImage": "/images/formal-image.png",
   "largeImage": "/images/about-image.jpg",
   "largeVideo": "/images/introVideo.mp4",
@@ -12,11 +12,11 @@
   "address": "121 King Street, Melbourne, United States",
   "freelance": "Available",
   "socialAddress": {
-    "facebook": "https://www.facebook.com/inflexiont",
-    "twitter": "https://twitter.com/inflexiont",
-    "github": "https://github.com/inflexiont",
-    "linkedin": "https://www.linkedin.com/company/Inflexiont"
+    "facebook": "https://www.facebook.com/straigo",
+    "twitter": "https://twitter.com/straigo",
+    "github": "https://github.com/straigo",
+    "linkedin": "https://www.linkedin.com/company/straigo"
   },
   "phoneNumbers": ["+9665555555"],
-  "emailAddress": ["info@inflexiont.com"]
+  "emailAddress": ["info@straigo.com"]
 }
