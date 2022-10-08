@@ -42,8 +42,9 @@ const AboutSection = () => {
               )}`}
             />
           </div> */}
-          <div className=" border-10 border-primary border-opacity-10">
+          <div className=" border-2 border-primary border-opacity-0 hover:border-opacity-10">
             <ReactPlayer
+              className="rounded"
               url={data.largeVideo}
               playing={true}
               // light={true}
